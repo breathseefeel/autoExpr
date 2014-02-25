@@ -1,0 +1,97 @@
+﻿生成启动时间为 2/25/2014 12:29:44 AM。
+     1>项目“D:\cwork\autoExpr\autoExpr\autoExpr.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\autoExpr.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files (x86)\VisualStudio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp temExperiment.cpp visaUtils.cpp
+         main.cpp
+     1>d:\cwork\autoexpr\autoexpr\main.cpp(17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\time.inl(112) : 参见“localtime”的声明
+     1>d:\cwork\autoexpr\autoexpr\main.cpp(19): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\main.cpp(27): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+         正在生成代码...
+         正在编译...
+         visaUtils.cpp
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(112): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(87): warning C4101: “slotNum”: 未引用的局部变量
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(123): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(131): warning C4101: “actualCnt”: 未引用的局部变量
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(180): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(183): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(214): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(174): warning C4101: “actualCnt”: 未引用的局部变量
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(243): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(244): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(269): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(240): warning C4101: “actualCnt”: 未引用的局部变量
+     1>d:\cwork\autoexpr\autoexpr\visautils.cpp(292): warning C4101: “instr”: 未引用的局部变量
+         temExperiment.cpp
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(267): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(609): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(610): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(656): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(657): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(1195): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(1196): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\string.h(110) : 参见“strcat”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(1197): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\string.h(110) : 参见“strcat”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(1225): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\stdlib.h(451) : 参见“_itoa”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(1226): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\visualstudio2010\vc\include\string.h(110) : 参见“strcat”的声明
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(1205): warning C4101: “curstate”: 未引用的局部变量
+     1>d:\cwork\autoexpr\autoexpr\temexperiment.cpp(1220): warning C4101: “fp2”: 未引用的局部变量
+         正在生成代码...
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files (x86)\VisualStudio2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cwork\autoExpr\Debug\autoExpr.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\autoExpr.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\cwork\autoExpr\Debug\autoExpr.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cwork\autoExpr\Debug\autoExpr.lib" /MACHINE:X86 Debug\autoExpr.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\prepareDataPc.obj
+         Debug\serialcom.obj
+         Debug\simuType.obj
+         Debug\temExperiment.obj
+         Debug\visaUtils.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\autoExpr.exe.embed.manifest" /manifest Debug\autoExpr.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         autoExpr.vcxproj -> D:\cwork\autoExpr\Debug\autoExpr.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\autoExpr.unsuccessfulbuild”。
+         正在对“Debug\autoExpr.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\cwork\autoExpr\autoExpr\autoExpr.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.52
